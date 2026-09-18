@@ -1,0 +1,1 @@
+Es la diferencia entre la señal de referencia deseada y la salida real del [[sistema]] en un instante dado: **e(t) = r(t) − y(t)**. Es la señal que el controlador usa como base para decidir cómo corregir la entrada del sistema (de ahí el nombre "realimentación negativa": el error se retroalimenta con signo negativo para reducirlo).

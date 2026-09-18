@@ -1,0 +1,3 @@
+Un sistema dinámico es aquel cuyo estado presente depende de su historia pasada, es decir, su comportamiento evoluciona en el tiempo y no depende únicamente del valor instantáneo de la entrada, sino también de las condiciones iniciales y de la dinámica interna (usualmente descrita por ecuaciones diferenciales o de diferencias).
+
+Es el objeto central de la disciplina: la teoría de control es un campo interdisciplinario de la [[ingeniería]] y las [[matemáticas]] que estudia el comportamiento de sistemas dinámicos, buscando modificar o predecir su evolución temporal mediante la manipulación de sus entradas. Ejemplos: la temperatura de un cuarto, la velocidad de un motor, la posición de un brazo robótico.

@@ -1,0 +1,5 @@
+ Teoría de Control  Definición
+
+La [[teoría de control]] es un campo interdisciplinario entre la[[ ingeniería]] y las[[ matemáticas]] que estudia el comportamiento de los [[sistemas dinámicos]], es decir, sistemas cuyo estado cambia con el tiempo. Su propósito central es desarrollar modelos y [[algoritmos]] que permitan gobernar las entradas de un sistema para conducirlo hacia un estado o comportamiento deseado, minimizando retardos,[[ sobreimpulsos]] o [errores](error) en estado estacionarioAl comportamiento de un sistema dinámico, se le manipula la entrada para obtener el efecto deseado en la salida mediante realimentación, y esta puede ser negativa (regulación autocompensatoria) o positiva (efecto de círculo vicioso)
+
+En términos formales, la teoría de control busca resolver un problema de optimización restringido: llevar la salida de un sistema lo más cerca posible de una [[Señal de Referencia]] específica, minimizando el [[Error de Seguimiento]], garantizando la [[Estabilidad de Sistemas|estabilidad]] del conjunto y respetando limitaciones físicas como saturación de actuadores, ancho de banda o consumo energético.

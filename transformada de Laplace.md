@@ -1,0 +1,3 @@
+es un operador matemático que transforma una función del dominio del tiempo f(t)
+
+su virtud principal es que convierte la derivación y la integración (operaciones del cálculo) en multiplicación y división algebraica por _s_ — por eso transforma ecuaciones diferenciales en ecuaciones algebraicas. Tiene además carácter inyectivo: a cada función del tiempo le corresponde una única F(s), lo que garantiza que se pueda "deshacer" el proceso con la transformada inversa sin ambigüedad. En control se usa para: obtener funciones de transferencia, analizar la respuesta transitoria y de estado estacionario simultáneamente en una sola operación, y aplicar técnicas gráficas (como el lugar de las raíces) sin resolver la ecuación diferencial cada vez.

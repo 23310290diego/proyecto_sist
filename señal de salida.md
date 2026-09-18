@@ -1,0 +1,3 @@
+Es la variable física o magnitud que produce el [[sistema]] como resultado de su respuesta a una entrada; es lo que se mide (normalmente mediante un sensor) y se compara contra la señal de referencia para calcular el [[error]]. En la [[función de transferencia]] se representa como _Y(s)_ (o _y(t)_ en el dominio del tiempo).
+
+Es el elemento que "cierra" el lazo de control: sin poder medir la señal de salida, no existiría error ni realimentación, y el sistema operaría necesariamente en [[lazo abierto]]. La calidad, precisión y velocidad del sensor que mide esta señal impone un límite práctico a qué tan bien puede desempeñarse todo el lazo de control, independientemente de qué tan bien diseñado esté el [[controlador]].

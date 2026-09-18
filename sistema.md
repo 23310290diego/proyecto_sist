@@ -1,0 +1,3 @@
+Un sistema es un conjunto de elementos interrelacionados que interactúan entre sí para cumplir un objetivo, transformando una o más entradas en una o más salidas mediante una relación causal.
+
+El sistema es el objeto de estudio sobre el cual se desea ejercer una acción de control (ej. un motor, un horno, un dron). Se representa habitualmente como una "caja" que recibe una entrada u(t) y produce una salida y(t), y puede clasificarse según linealidad (lineal/no lineal), variabilidad temporal (invariante/variante en el tiempo) y continuidad (continuo/discreto).

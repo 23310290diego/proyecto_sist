@@ -1,0 +1,1 @@
+Es el valor deseado que se quiere que la salida del [[sistema]] alcance o siga a lo largo del tiempo; también se le llama "entrada de comando" o "set-point". Cuando la referencia es constante en cero, el problema de control se denomina específicamente "regulación"; cuando la referencia varía en el tiempo y el sistema debe seguirla, se habla de "seguimiento" (tracking).

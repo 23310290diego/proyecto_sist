@@ -1,0 +1,1 @@
+una ecuación diferencial es una ecuación [matemática](matemáticas) que relaciona una función desconocida con una o más de sus derivadas respecto al tiempo (o a otra variable independiente). En control, describe la dinámica física del sistema: cómo la salida y sus derivadas (velocidad de cambio, aceleración de cambio, etc.) se relacionan con la entrada y sus derivadas.
